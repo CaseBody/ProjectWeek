@@ -10,7 +10,6 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"@mapbox/mapbox-gl-directions": "4.1.0",
 		"events": "^3.3.0",
 		"mapbox-gl": "2.6.1",
 		"mapbox-gl-controls": "^2.3.5",
